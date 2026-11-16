@@ -238,8 +238,8 @@ If you find this codebase or benchmark useful in your research, please cite:
 ```bibtex
 @article{arche_brats_swinunetr2026,
   title   = {Volumetric Multimodal Brain Tumor Sub-Region Delineation via 3D SwinUNETR Transformers},
-  author  = {ARCHE Research Lab Neuro-Imaging Group},
-  journal = {Medical Image Analysis / IEEE Transactions on Medical Imaging (Preprint)},
+  author  = {Md Ashraful Hossen Akash, ARCHE Research Lab Neuro-Imaging Group},
+  target journal = {Medical Image Analysis / IEEE Transactions on Medical Imaging},
   year    = {2026}
 }
 ```
